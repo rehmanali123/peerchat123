@@ -1,0 +1,13 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.1",
+        "illuminate/events": "^6.2",
+        "illuminate/database": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "ChatApp\\": "src"
+        }
+        
+    }
+}
